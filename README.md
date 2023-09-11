@@ -8699,4 +8699,43 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     </tr>
   </tbody>
 </table>
+<table>
+  <tr class="table-secondary">
+    <th colspan="2">
+     <!-- <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/186" -->
+        >teste inicial uso fork</a
+      >
+    </th>
+  </tr>
+  <tr>
+    <td style="text-align: left">Identificador</td>
+    <td style="text-align: left">
+      <a href="https://dwc.tdwg.org/terms/#dwc:measurementDeterminedDate"
+        >https://dwc.tdwg.org/terms/#dwc:measurementDeterminedDate</a
+      >
+    </td>
+  </tr>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Definição</td>
+      <td style="text-align: left">
+        A data em que o measurementorfact foi feito.
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Domínio</td>
+      <td style="text-align: left"></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Exemplos</td>
+      <td style="text-align: left">
+        <li> 2018-08-29T15:19 (15:19 horário local no dia 29 de Agosto de 2018)
+        <ul>
+          <!-- <li>NA</li> -->
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
